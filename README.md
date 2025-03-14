@@ -48,4 +48,4 @@ Licencia
 
 Este proyecto está bajo la licencia MIT.
 
-¡Diviértete jugando y mejorando tu lógica con este juego de ahorcado! 🎉
+¡Diviérte con este juego! 🎉
